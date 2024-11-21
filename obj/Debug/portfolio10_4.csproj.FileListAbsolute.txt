@@ -1,0 +1,7 @@
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\bin\Debug\portfolio10_4.exe.config
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\bin\Debug\portfolio10_4.exe
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\bin\Debug\portfolio10_4.pdb
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\obj\Debug\portfolio10_4.csproj.AssemblyReference.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\obj\Debug\portfolio10_4.csproj.CoreCompileInputs.cache
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\obj\Debug\portfolio10_4.exe
+C:\Users\joelg\Documents\Visual Studio 2022\VS_Projects\portfolio10_4\obj\Debug\portfolio10_4.pdb

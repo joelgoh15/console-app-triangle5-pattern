@@ -11,5 +11,3 @@ A console application that draws a triangle5 pattern. The size of tiangle5 patte
   </ul>
 </ul>
 
-## Project Presentation
-https://github.com/user-attachments/assets/715ba0b5-c170-4faf-9540-b5c66fd019e7

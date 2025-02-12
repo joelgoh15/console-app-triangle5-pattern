@@ -1,6 +1,8 @@
-# Console App Triangle5 Pattern
-A console application that draws a triangle5 pattern. The size of tiangle5 pattern is base on value entered by user.
+## Introduction 
+A console application that draws a triangle pattern. 
 
+The size of triangle pattern on console app is base on value entered by user.
+  
 ## Technical Description
 1. Technology stacks and approach used:
 <ul>

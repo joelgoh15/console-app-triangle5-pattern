@@ -40,7 +40,7 @@ namespace portfolio10_4
                     Console.WriteLine("please enter a valid input. please enter an integer.");
                     continue;
                 }
-                ClassPatternTriangle5.DramTriangle5Pattern(sizeTriangle5Pattern);
+                ClassPatternTriangle5.DrawTriangle5Pattern(sizeTriangle5Pattern);
                 Console.Write("\n\n");
             } while (sizeTriangle5Pattern != -1);
             Console.WriteLine("program exit.");

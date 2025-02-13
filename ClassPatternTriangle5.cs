@@ -8,7 +8,7 @@ namespace portfolio10_4
 {
     internal class ClassPatternTriangle5
     {
-        public static void DramTriangle5Pattern(int sizeTriangle5Pattern)
+        public static void DrawTriangle5Pattern(int sizeTriangle5Pattern)
         {
             int midSizeTriangle5Pattern;
             midSizeTriangle5Pattern = (sizeTriangle5Pattern / 2) + 1;
